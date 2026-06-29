@@ -12,6 +12,7 @@ Solution:
   Risk Alerts — potential issues that are adapted to your mood and weather in that place
   
   Prep Briefs for event types like :
+        
         Meetings: key points to take about, key questions to ask and more
         
         Workouts: weather at that time for your location, gear reminders, tips and more
