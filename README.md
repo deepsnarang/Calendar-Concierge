@@ -5,17 +5,25 @@ Solution:
  Thats why I built an agent called Calendar Concierge to help with that! Calendar Concierge is an agent that reads the events on your google calendar and generates a daily schedule based on your events and how your feeling at that time. It also has many features like helping you prepare for your event, giving you a debrief of the event and what you need and if your travelling even helps plan activities and a packing list!
 
  Functions of Calendar Concierge:
-  Conflict Check — flags overlapping events, tight events and getting to places in 30     minutes, and overloaded days
+  Conflict Check — flags overlapping events, tight events and getting to places in 30 minutes, and overloaded days
+  
   Full Day Timeline — a schedule of your events in order 
+  
   Risk Alerts — potential issues that are adapted to your mood and weather in that place
   
   Prep Briefs for event types like :
         Meetings: key points to take about, key questions to ask and more
+        
         Workouts: weather at that time for your location, gear reminders, tips and more
+        
         Travel: day-by-day itinerary, packing list, destination weather, timezone info and more
+        
         Dinners: conversation starters or what to order and more
+        
         Medical: questions for the doctor and more
+        
         Studying: focus areas and more
+        
         Birthdays: gift ideas, messages to send and more
 
 
