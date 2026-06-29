@@ -45,9 +45,8 @@ Calendar-Concierge/
 └── pyproject.toml             # Project dependencies
 ```
 
-> 💡 **Tip:** Use [Gemini CLI](https://github.com/google-gemini/gemini-cli) for AI-assisted development - project context is pre-configured in `GEMINI.md`.
 
-Requirements
+Requirements:
 Before you begin, ensure you have:
 
 uv: Python package manager - Install
