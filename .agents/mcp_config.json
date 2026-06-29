@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "gws-calendar": {
+      "httpUrl": "https://calendar.googleapis.com/mcp/v1",
+      "authProviderType": "google_credentials"
+    },
+    "gws-gmail": {
+      "httpUrl": "https://gmail.googleapis.com/mcp/v1",
+      "authProviderType": "google_credentials"
+    }
+  }
+}
