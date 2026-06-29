@@ -1,4 +1,4 @@
-# calendar-concierge
+# Calendar-Concierge
 Problem: 
   Most calendar apps just log events for you and save them on the date and time you selected but sometimes with a busy week its hard to keep track of everything you have to do and what you need for all your scheduled tasks and it gets confusing, hard and overwhelming:(
 Solution:
@@ -8,6 +8,7 @@ Solution:
   Conflict Check — flags overlapping events, tight events and getting to places in 30     minutes, and overloaded days
   Full Day Timeline — a schedule of your events in order 
   Risk Alerts — potential issues that are adapted to your mood and weather in that place
+  
   Prep Briefs for event types like :
         Meetings: key points to take about, key questions to ask and more
         Workouts: weather at that time for your location, gear reminders, tips and more
