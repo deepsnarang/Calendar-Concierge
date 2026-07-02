@@ -2,7 +2,7 @@
 Problem: 
   Most calendar apps just log events for you and save them on the date and time you selected but sometimes with a busy week its hard to keep track of everything you have to do and what you need for all your scheduled tasks and it gets confusing, hard and overwhelming:(
 Solution:
- Thats why I built an agent called Calendar Concierge to help with that! Calendar Concierge is an agent that reads the events on your google calendar and generates a daily schedule based on your events and how your feeling at that time. It also has many features like helping you prepare for your event, giving you a debrief of the event and what you need and if your travelling even helps plan activities and a packing list!
+ Thats why I built an multi-agent called Calendar Concierge to help with that! Calendar Concierge is an agent that reads the events on your google calendar and generates a daily schedule based on your events and how your feeling at that time. It also has many features like helping you prepare for your event, giving you a debrief of the event and what you need and if your travelling even helps plan activities and a packing list!
 
  Functions of Calendar Concierge:
   
